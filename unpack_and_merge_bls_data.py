@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Path to the folder containing the Excel files
-folder_path = 'C:\Users\\natha\OneDrive\Documents\Marijuana\BLS Excels'
+folder_path = 'C:\Users\\natha\OneDrive\Documents\Marijuana\Marijuana-Legalization-CDL\BLS Excels'
 
 # Get a list of all files in the folder
 file_list = os.listdir(folder_path)
