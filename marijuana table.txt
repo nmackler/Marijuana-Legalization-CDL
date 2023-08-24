@@ -1,0 +1,163 @@
+<table id="tablepress-26" class="tablepress tablepress-id-26 tablepress-responsive dataTable no-footer" aria-describedby="tablepress-26-description">
+<thead>
+<tr class="row-1 odd"><th class="column-1 sorting" tabindex="0" aria-controls="tablepress-26" rowspan="1" colspan="1" style="width: 142.767px;" aria-label="State: activate to sort column ascending">State</th><th class="column-2 sorting" tabindex="0" aria-controls="tablepress-26" rowspan="1" colspan="1" style="width: 111.3px;" aria-label="Recreational: activate to sort column ascending">Recreational</th><th class="column-3 sorting" tabindex="0" aria-controls="tablepress-26" rowspan="1" colspan="1" style="width: 144.967px;" aria-label="Year legalized (Rec): activate to sort column ascending">Year legalized (Rec)</th><th class="column-4 sorting" tabindex="0" aria-controls="tablepress-26" rowspan="1" colspan="1" style="width: 69.3667px;" aria-label="Medical: activate to sort column ascending">Medical</th><th class="column-5 sorting" tabindex="0" aria-controls="tablepress-26" rowspan="1" colspan="1" style="width: 149.6px;" aria-label="Year legalized (Med): activate to sort column ascending">Year legalized (Med)</th></tr>
+</thead>
+<tbody class="row-hover">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row-2 even">
+<td class="column-1">California</td><td class="column-2">Yes</td><td class="column-3">2016</td><td class="column-4">Yes</td><td class="column-5">1996</td>
+</tr><tr class="row-3 odd">
+<td class="column-1">Alaska</td><td class="column-2">Yes</td><td class="column-3">2014</td><td class="column-4">Yes</td><td class="column-5">1998</td>
+</tr><tr class="row-4 even">
+<td class="column-1">Nevada</td><td class="column-2">Yes</td><td class="column-3">2016</td><td class="column-4">Yes</td><td class="column-5">1998</td>
+</tr><tr class="row-5 odd">
+<td class="column-1">Oregon</td><td class="column-2">Yes</td><td class="column-3">2014</td><td class="column-4">Yes</td><td class="column-5">1998</td>
+</tr><tr class="row-6 even">
+<td class="column-1">Washington</td><td class="column-2">Yes</td><td class="column-3">2012</td><td class="column-4">Yes</td><td class="column-5">1998</td>
+</tr><tr class="row-7 odd">
+<td class="column-1">Maine</td><td class="column-2">Yes</td><td class="column-3">2016</td><td class="column-4">Yes</td><td class="column-5">1999</td>
+</tr><tr class="row-8 even">
+<td class="column-1">Colorado</td><td class="column-2">Yes</td><td class="column-3">2012</td><td class="column-4">Yes</td><td class="column-5">2000</td>
+</tr><tr class="row-9 odd">
+<td class="column-1">Hawaii</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2000</td>
+</tr><tr class="row-10 even">
+<td class="column-1">Montana</td><td class="column-2">Yes</td><td class="column-3">2020</td><td class="column-4">Yes</td><td class="column-5">2004</td>
+</tr><tr class="row-11 odd">
+<td class="column-1">Vermont</td><td class="column-2">Yes</td><td class="column-3">2020</td><td class="column-4">Yes</td><td class="column-5">2004</td>
+</tr><tr class="row-12 even">
+<td class="column-1">Rhode Island</td><td class="column-2">Yes</td><td class="column-3">2022</td><td class="column-4">Yes</td><td class="column-5">2006</td>
+</tr><tr class="row-13 odd">
+<td class="column-1">New Mexico</td><td class="column-2">Yes</td><td class="column-3">2021</td><td class="column-4">Yes</td><td class="column-5">2007</td>
+</tr><tr class="row-14 even">
+<td class="column-1">Michigan</td><td class="column-2">Yes</td><td class="column-3">2018</td><td class="column-4">Yes</td><td class="column-5">2008</td>
+</tr><tr class="row-15 odd">
+<td class="column-1">Arizona</td><td class="column-2">Yes</td><td class="column-3">2020</td><td class="column-4">Yes</td><td class="column-5">2010</td>
+</tr><tr class="row-16 even">
+<td class="column-1">New Jersey</td><td class="column-2">Yes</td><td class="column-3">2020</td><td class="column-4">Yes</td><td class="column-5">2010</td>
+</tr><tr class="row-17 odd">
+<td class="column-1">Delaware</td><td class="column-2">Yes</td><td class="column-3">2023</td><td class="column-4">Yes</td><td class="column-5">2011</td>
+</tr><tr class="row-18 even">
+<td class="column-1">Connecticut</td><td class="column-2">Yes</td><td class="column-3">2021</td><td class="column-4">Yes</td><td class="column-5">2012</td>
+</tr><tr class="row-19 odd">
+<td class="column-1">Massachusetts</td><td class="column-2">Yes</td><td class="column-3">2016</td><td class="column-4">Yes</td><td class="column-5">2012</td>
+</tr><tr class="row-20 even">
+<td class="column-1">Illinois</td><td class="column-2">Yes</td><td class="column-3">2019</td><td class="column-4">Yes</td><td class="column-5">2013</td>
+</tr><tr class="row-21 odd">
+<td class="column-1">Maryland</td><td class="column-2">Yes</td><td class="column-3">2022</td><td class="column-4">Yes</td><td class="column-5">2013</td>
+</tr><tr class="row-22 even">
+<td class="column-1">New Hampshire</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2013</td>
+</tr><tr class="row-23 odd">
+<td class="column-1">Minnesota</td><td class="column-2">Yes</td><td class="column-3">2023</td><td class="column-4">Yes</td><td class="column-5">2014</td>
+</tr><tr class="row-24 even">
+<td class="column-1">New York</td><td class="column-2">Yes</td><td class="column-3">2021</td><td class="column-4">Yes</td><td class="column-5">2014</td>
+</tr><tr class="row-25 odd">
+<td class="column-1">Georgia</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2015</td>
+</tr><tr class="row-26 even">
+<td class="column-1">Louisiana</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2015</td>
+</tr><tr class="row-27 odd">
+<td class="column-1">Arkansas</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2016</td>
+</tr><tr class="row-28 even">
+<td class="column-1">Florida</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2016</td>
+</tr><tr class="row-29 odd">
+<td class="column-1">North Dakota</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2016</td>
+</tr><tr class="row-30 even">
+<td class="column-1">Ohio</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2016</td>
+</tr><tr class="row-31 odd">
+<td class="column-1">Pennsylvania</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2016</td>
+</tr><tr class="row-32 even">
+<td class="column-1">Iowa</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2017</td>
+</tr><tr class="row-33 odd">
+<td class="column-1">West Virginia</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2017</td>
+</tr><tr class="row-34 even">
+<td class="column-1">Missouri</td><td class="column-2">Yes</td><td class="column-3">2022</td><td class="column-4">Yes</td><td class="column-5">2018</td>
+</tr><tr class="row-35 odd">
+<td class="column-1">Oklahoma</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2018</td>
+</tr><tr class="row-36 even">
+<td class="column-1">Utah</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2018</td>
+</tr><tr class="row-37 odd">
+<td class="column-1">Mississippi</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2022</td>
+</tr><tr class="row-38 even">
+<td class="column-1">South Dakota</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2020</td>
+</tr><tr class="row-39 odd">
+<td class="column-1">Virginia</td><td class="column-2">Yes</td><td class="column-3">2021</td><td class="column-4">Yes</td><td class="column-5">2020</td>
+</tr><tr class="row-40 even">
+<td class="column-1">Alabama</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2021</td>
+</tr><tr class="row-41 odd">
+<td class="column-1">Idaho</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-42 even">
+<td class="column-1">Indiana</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-43 odd">
+<td class="column-1">Kansas</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-44 even">
+<td class="column-1">Kentucky</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">Yes</td><td class="column-5">2023</td>
+</tr><tr class="row-45 odd">
+<td class="column-1">Nebraska</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-46 even">
+<td class="column-1">North Carolina</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-47 odd">
+<td class="column-1">South Carolina</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-48 even">
+<td class="column-1">Tennessee</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-49 odd">
+<td class="column-1">Texas</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-50 even">
+<td class="column-1">Wisconsin</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-51 odd">
+<td class="column-1">Wyoming</td><td class="column-2">No</td><td class="column-3"></td><td class="column-4">No</td><td class="column-5"></td>
+</tr><tr class="row-52 even">
+<td class="column-1">District of Columbia</td><td class="column-2">Yes</td><td class="column-3">2015</td><td class="column-4">Yes</td><td class="column-5">2011</td>
+</tr><tr class="row-53 odd">
+<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td><td class="column-4"></td><td class="column-5"></td>
+</tr></tbody>
+</table>

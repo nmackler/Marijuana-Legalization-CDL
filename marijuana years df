@@ -1,0 +1,53 @@
+,State,Recreational,Year legalized (Rec),Medical,Year legalized (Med)
+0,California,Yes,2016,Yes,1996
+1,Alaska,Yes,2014,Yes,1998
+2,Nevada,Yes,2016,Yes,1998
+3,Oregon,Yes,2014,Yes,1998
+4,Washington,Yes,2012,Yes,1998
+5,Maine,Yes,2016,Yes,1999
+6,Colorado,Yes,2012,Yes,2000
+7,Hawaii,No,,Yes,2000
+8,Montana,Yes,2020,Yes,2004
+9,Vermont,Yes,2020,Yes,2004
+10,Rhode Island,Yes,2022,Yes,2006
+11,New Mexico,Yes,2021,Yes,2007
+12,Michigan,Yes,2018,Yes,2008
+13,Arizona,Yes,2020,Yes,2010
+14,New Jersey,Yes,2020,Yes,2010
+15,Delaware,Yes,2023,Yes,2011
+16,Connecticut,Yes,2021,Yes,2012
+17,Massachusetts,Yes,2016,Yes,2012
+18,Illinois,Yes,2019,Yes,2013
+19,Maryland,Yes,2022,Yes,2013
+20,New Hampshire,No,,Yes,2013
+21,Minnesota,Yes,2023,Yes,2014
+22,New York,Yes,2021,Yes,2014
+23,Georgia,No,,Yes,2015
+24,Louisiana,No,,Yes,2015
+25,Arkansas,No,,Yes,2016
+26,Florida,No,,Yes,2016
+27,North Dakota,No,,Yes,2016
+28,Ohio,No,,Yes,2016
+29,Pennsylvania,No,,Yes,2016
+30,Iowa,No,,Yes,2017
+31,West Virginia,No,,Yes,2017
+32,Missouri,Yes,2022,Yes,2018
+33,Oklahoma,No,,Yes,2018
+34,Utah,No,,Yes,2018
+35,Mississippi,No,,Yes,2022
+36,South Dakota,No,,Yes,2020
+37,Virginia,Yes,2021,Yes,2020
+38,Alabama,No,,Yes,2021
+39,Idaho,No,,No,
+40,Indiana,No,,No,
+41,Kansas,No,,No,
+42,Kentucky,No,,Yes,2023
+43,Nebraska,No,,No,
+44,North Carolina,No,,No,
+45,South Carolina,No,,No,
+46,Tennessee,No,,No,
+47,Texas,No,,No,
+48,Wisconsin,No,,No,
+49,Wyoming,No,,No,
+50,District of Columbia,Yes,2015,Yes,2011
+51,,,,,
