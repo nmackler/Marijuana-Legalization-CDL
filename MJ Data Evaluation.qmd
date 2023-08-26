@@ -1,0 +1,11 @@
+---
+title: "Marijuana Evaluation"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+library(tidyverse)
+data <- read_csv(data.csv)
+```
