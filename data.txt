@@ -1,0 +1,1123 @@
+,state,year,all_occ_h_median,drivers_h_median,rec_legal,med_legal
+0,Alabama,2001,11.02,12.01,False,False
+1,Alaska,2001,16.12,16.3,False,True
+2,Arizona,2001,12.33,12.84,False,False
+3,Arkansas,2001,10.47,12.28,False,False
+4,California,2001,14.31,14.01,False,True
+5,Colorado,2001,14.08,13.63,False,True
+6,Connecticut,2001,15.92,13.95,False,False
+7,Delaware,2001,13.85,13.18,False,False
+8,District of Columbia,2001,19.94,11.9,False,False
+9,Florida,2001,11.58,11.69,False,False
+10,Georgia,2001,12.4,13.04,False,False
+11,Hawaii,2001,13.18,12.46,False,True
+12,Idaho,2001,11.88,12.53,False,False
+13,Illinois,2001,13.48,15.37,False,False
+14,Indiana,2001,12.32,14.54,False,False
+15,Iowa,2001,11.68,13.15,False,False
+16,Kansas,2001,12.1,13.0,False,False
+17,Kentucky,2001,11.67,12.11,False,False
+18,Louisiana,2001,11.07,10.94,False,False
+19,Maine,2001,11.93,12.06,False,True
+20,Maryland,2001,14.3,13.46,False,False
+21,Massachusetts,2001,15.48,14.7,False,False
+22,Michigan,2001,14.03,14.06,False,False
+23,Minnesota,2001,14.04,14.5,False,False
+24,Mississippi,2001,10.34,11.49,False,False
+25,Missouri,2001,12.2,14.09,False,False
+26,Montana,2001,10.74,12.19,False,False
+27,Nebraska,2001,11.53,13.84,False,False
+28,Nevada,2001,12.41,13.33,False,True
+29,New Hampshire,2001,12.83,12.67,False,False
+30,New Jersey,2001,15.16,14.68,False,False
+31,New Mexico,2001,11.31,11.33,False,False
+32,New York,2001,14.87,14.49,False,False
+33,North Carolina,2001,12.06,13.1,False,False
+34,North Dakota,2001,10.85,12.64,False,False
+35,Ohio,2001,12.98,14.0,False,False
+36,Oklahoma,2001,10.94,11.18,False,False
+37,Oregon,2001,13.46,13.95,False,True
+38,Pennsylvania,2001,12.94,13.51,False,False
+39,Rhode Island,2001,13.4,13.27,False,False
+40,South Carolina,2001,11.48,12.78,False,False
+41,South Dakota,2001,10.7,12.39,False,False
+42,Tennessee,2001,11.66,14.3,False,False
+43,Texas,2001,12.07,12.11,False,False
+44,Utah,2001,12.03,14.32,False,False
+45,Vermont,2001,12.54,11.88,False,False
+46,Virginia,2001,13.07,11.43,False,False
+47,Washington,2001,15.12,15.12,False,True
+48,West Virginia,2001,10.71,10.75,False,False
+49,Wisconsin,2001,12.77,13.93,False,False
+50,Wyoming,2001,11.75,12.39,False,False
+51,Alabama,2002,11.37,12.16,False,False
+52,Alaska,2002,16.44,16.39,False,True
+53,Arizona,2002,12.58,13.2,False,False
+54,Arkansas,2002,10.84,12.48,False,False
+55,California,2002,14.68,14.45,False,True
+56,Colorado,2002,14.46,14.14,False,True
+57,Connecticut,2002,16.21,14.33,False,False
+58,Delaware,2002,14.01,13.42,False,False
+59,District of Columbia,2002,20.49,14.0,False,False
+60,Florida,2002,11.8,12.02,False,False
+61,Georgia,2002,12.68,12.98,False,False
+62,Hawaii,2002,13.67,13.07,False,True
+63,Idaho,2002,12.03,12.49,False,False
+64,Illinois,2002,13.71,15.52,False,False
+65,Indiana,2002,12.69,14.62,False,False
+66,Iowa,2002,11.98,13.6,False,False
+67,Kansas,2002,12.38,12.57,False,False
+68,Kentucky,2002,11.93,12.38,False,False
+69,Louisiana,2002,11.39,11.07,False,False
+70,Maine,2002,12.33,12.21,False,True
+71,Maryland,2002,14.78,13.86,False,False
+72,Massachusetts,2002,15.94,14.9,False,False
+73,Michigan,2002,14.23,14.55,False,False
+74,Minnesota,2002,14.5,15.15,False,False
+75,Mississippi,2002,10.61,11.69,False,False
+76,Missouri,2002,12.5,14.21,False,False
+77,Montana,2002,11.1,12.18,False,False
+78,Nebraska,2002,11.9,14.55,False,False
+79,Nevada,2002,12.66,14.19,False,True
+80,New Hampshire,2002,13.28,13.28,False,False
+81,New Jersey,2002,15.39,14.69,False,False
+82,New Mexico,2002,11.58,11.62,False,False
+83,New York,2002,15.32,15.01,False,False
+84,North Carolina,2002,12.35,13.39,False,False
+85,North Dakota,2002,11.12,13.17,False,False
+86,Ohio,2002,13.36,14.43,False,False
+87,Oklahoma,2002,11.24,11.47,False,False
+88,Oregon,2002,13.73,14.1,False,True
+89,Pennsylvania,2002,13.26,13.86,False,False
+90,Rhode Island,2002,13.82,13.61,False,False
+91,South Carolina,2002,11.79,13.02,False,False
+92,South Dakota,2002,10.95,12.46,False,False
+93,Tennessee,2002,11.91,14.29,False,False
+94,Texas,2002,12.32,12.28,False,False
+95,Utah,2002,12.23,13.92,False,False
+96,Vermont,2002,12.82,12.18,False,False
+97,Virginia,2002,13.3,11.77,False,False
+98,Washington,2002,15.31,15.04,False,True
+99,West Virginia,2002,11.04,10.92,False,False
+100,Wisconsin,2002,13.06,14.23,False,False
+101,Wyoming,2002,12.07,12.9,False,False
+102,Alabama,2003,11.52,12.22,False,False
+103,Alaska,2003,16.55,16.03,False,True
+104,Arizona,2003,12.76,13.09,False,False
+105,Arkansas,2003,10.99,12.89,False,False
+106,California,2003,14.99,14.78,False,True
+107,Colorado,2003,14.82,14.51,False,True
+108,Connecticut,2003,16.51,14.59,False,False
+109,Delaware,2003,14.28,13.68,False,False
+110,District of Columbia,2003,20.89,14.23,False,False
+111,Florida,2003,11.97,12.1,False,False
+112,Georgia,2003,12.97,13.1,False,False
+113,Hawaii,2003,13.78,13.2,False,True
+114,Idaho,2003,12.15,12.73,False,False
+115,Illinois,2003,14.08,15.65,False,False
+116,Indiana,2003,12.88,14.61,False,False
+117,Iowa,2003,12.22,13.59,False,False
+118,Kansas,2003,12.55,12.97,False,False
+119,Kentucky,2003,12.14,12.71,False,False
+120,Louisiana,2003,11.5,10.93,False,False
+121,Maine,2003,12.65,12.28,False,True
+122,Maryland,2003,15.23,14.22,False,False
+123,Massachusetts,2003,16.33,15.29,False,False
+124,Michigan,2003,14.48,14.72,False,False
+125,Minnesota,2003,14.86,15.06,False,False
+126,Mississippi,2003,10.73,11.53,False,False
+127,Missouri,2003,12.68,13.8,False,False
+128,Montana,2003,11.31,12.8,False,False
+129,Nebraska,2003,12.12,13.85,False,False
+130,Nevada,2003,12.99,14.93,False,True
+131,New Hampshire,2003,13.6,13.69,False,False
+132,New Jersey,2003,15.6,15.04,False,False
+133,New Mexico,2003,11.84,11.89,False,False
+134,New York,2003,15.63,15.15,False,False
+135,North Carolina,2003,12.57,13.41,False,False
+136,North Dakota,2003,11.34,13.17,False,False
+137,Ohio,2003,13.55,14.33,False,False
+138,Oklahoma,2003,11.42,11.79,False,False
+139,Oregon,2003,13.89,14.26,False,True
+140,Pennsylvania,2003,13.4,13.83,False,False
+141,Rhode Island,2003,14.21,13.88,False,False
+142,South Carolina,2003,12.02,13.0,False,False
+143,South Dakota,2003,10.99,12.34,False,False
+144,Tennessee,2003,12.19,14.17,False,False
+145,Texas,2003,12.5,12.37,False,False
+146,Utah,2003,12.45,13.89,False,False
+147,Vermont,2003,13.09,12.61,False,False
+148,Virginia,2003,13.62,11.97,False,False
+149,Washington,2003,15.66,15.46,False,True
+150,West Virginia,2003,11.16,10.94,False,False
+151,Wisconsin,2003,13.31,14.46,False,False
+152,Wyoming,2003,12.33,13.14,False,False
+153,Alabama,2004,11.76,12.4,False,False
+154,Alaska,2004,16.84,16.19,False,True
+155,Arizona,2004,13.13,13.21,False,False
+156,Arkansas,2004,11.25,13.47,False,False
+157,California,2004,15.36,14.9,False,True
+158,Colorado,2004,15.26,14.76,False,True
+159,Connecticut,2004,16.88,14.85,False,False
+160,Delaware,2004,14.63,14.21,False,False
+161,District of Columbia,2004,21.66,14.25,False,False
+162,Florida,2004,12.36,12.08,False,False
+163,Georgia,2004,13.29,13.64,False,False
+164,Hawaii,2004,14.07,13.34,False,True
+165,Idaho,2004,12.54,12.43,False,False
+166,Illinois,2004,14.41,15.79,False,False
+167,Indiana,2004,13.11,14.51,False,False
+168,Iowa,2004,12.53,13.87,False,False
+169,Kansas,2004,12.8,13.17,False,False
+170,Kentucky,2004,12.49,13.04,False,False
+171,Louisiana,2004,11.82,10.89,False,False
+172,Maine,2004,12.98,12.61,False,True
+173,Maryland,2004,15.59,14.17,False,False
+174,Massachusetts,2004,17.0,15.78,False,False
+175,Michigan,2004,14.91,14.9,False,False
+176,Minnesota,2004,15.34,15.21,False,False
+177,Mississippi,2004,10.97,11.91,False,False
+178,Missouri,2004,12.85,14.59,False,False
+179,Montana,2004,11.62,12.97,False,True
+180,Nebraska,2004,12.57,13.85,False,False
+181,Nevada,2004,13.13,15.6,False,True
+182,New Hampshire,2004,14.0,14.03,False,False
+183,New Jersey,2004,16.08,15.38,False,False
+184,New Mexico,2004,12.2,12.5,False,False
+185,New York,2004,16.03,15.61,False,False
+186,North Carolina,2004,12.83,13.59,False,False
+187,North Dakota,2004,11.77,13.5,False,False
+188,Ohio,2004,13.83,14.39,False,False
+189,Oklahoma,2004,11.72,12.11,False,False
+190,Oregon,2004,14.22,14.5,False,True
+191,Pennsylvania,2004,13.67,13.63,False,False
+192,Rhode Island,2004,14.73,14.07,False,False
+193,South Carolina,2004,12.23,12.96,False,False
+194,South Dakota,2004,11.38,12.15,False,False
+195,Tennessee,2004,12.51,13.47,False,False
+196,Texas,2004,12.72,12.55,False,False
+197,Utah,2004,12.69,14.34,False,False
+198,Vermont,2004,13.43,13.32,False,True
+199,Virginia,2004,14.15,12.54,False,False
+200,Washington,2004,15.92,15.77,False,True
+201,West Virginia,2004,11.39,10.92,False,False
+202,Wisconsin,2004,13.72,14.67,False,False
+203,Wyoming,2004,12.72,13.64,False,False
+204,Alabama,2005,12.07,12.56,False,False
+205,Alaska,2005,17.3,16.88,False,True
+206,Arizona,2005,13.28,13.77,False,False
+207,Arkansas,2005,11.53,13.57,False,False
+208,California,2005,15.8,15.18,False,True
+209,Colorado,2005,15.53,14.98,False,True
+210,Connecticut,2005,17.3,15.39,False,False
+211,Delaware,2005,14.95,14.08,False,False
+212,District of Columbia,2005,22.88,15.45,False,False
+213,Florida,2005,12.75,12.59,False,False
+214,Georgia,2005,13.49,13.87,False,False
+215,Hawaii,2005,14.39,13.63,False,True
+216,Idaho,2005,12.84,13.02,False,False
+217,Illinois,2005,14.78,15.89,False,False
+218,Indiana,2005,13.3,15.17,False,False
+219,Iowa,2005,12.84,13.79,False,False
+220,Kansas,2005,12.99,13.19,False,False
+221,Kentucky,2005,12.73,13.56,False,False
+222,Louisiana,2005,12.01,11.05,False,False
+223,Maine,2005,13.3,13.13,False,True
+224,Maryland,2005,16.09,14.51,False,False
+225,Massachusetts,2005,17.47,16.26,False,False
+226,Michigan,2005,15.46,15.51,False,False
+227,Minnesota,2005,15.74,15.63,False,False
+228,Mississippi,2005,11.19,12.3,False,False
+229,Missouri,2005,13.08,14.6,False,False
+230,Montana,2005,11.86,13.12,False,True
+231,Nebraska,2005,12.88,14.59,False,False
+232,Nevada,2005,13.3,15.83,False,True
+233,New Hampshire,2005,14.63,14.66,False,False
+234,New Jersey,2005,16.68,15.57,False,False
+235,New Mexico,2005,12.41,12.68,False,False
+236,New York,2005,16.36,15.87,False,False
+237,North Carolina,2005,13.06,13.91,False,False
+238,North Dakota,2005,12.14,13.62,False,False
+239,Ohio,2005,14.07,14.63,False,False
+240,Oklahoma,2005,12.0,12.51,False,False
+241,Oregon,2005,14.5,14.41,False,True
+242,Pennsylvania,2005,13.85,13.77,False,False
+243,Rhode Island,2005,15.07,14.25,False,False
+244,South Carolina,2005,12.43,12.82,False,False
+245,South Dakota,2005,11.52,12.57,False,False
+246,Tennessee,2005,12.75,14.08,False,False
+247,Texas,2005,12.88,13.09,False,False
+248,Utah,2005,12.94,14.55,False,False
+249,Vermont,2005,13.68,13.6,False,True
+250,Virginia,2005,14.62,12.98,False,False
+251,Washington,2005,16.3,16.18,False,True
+252,West Virginia,2005,11.54,11.58,False,False
+253,Wisconsin,2005,14.11,14.91,False,False
+254,Wyoming,2005,13.12,14.27,False,False
+255,Alabama,2006,12.49,13.06,False,False
+256,Alaska,2006,17.7,17.24,False,True
+257,Arizona,2006,13.77,14.31,False,False
+258,Arkansas,2006,11.93,15.55,False,False
+259,California,2006,16.37,15.66,False,True
+260,Colorado,2006,15.82,15.33,False,True
+261,Connecticut,2006,17.76,15.33,False,False
+262,Delaware,2006,15.82,14.47,False,False
+263,District of Columbia,2006,23.95,14.71,False,False
+264,Florida,2006,13.31,13.01,False,False
+265,Georgia,2006,13.78,14.1,False,False
+266,Hawaii,2006,14.97,14.42,False,True
+267,Idaho,2006,13.47,13.46,False,False
+268,Illinois,2006,15.21,16.0,False,False
+269,Indiana,2006,13.7,15.72,False,False
+270,Iowa,2006,13.23,13.82,False,False
+271,Kansas,2006,13.47,14.62,False,False
+272,Kentucky,2006,13.11,14.0,False,False
+273,Louisiana,2006,12.7,11.37,False,False
+274,Maine,2006,13.76,13.74,False,True
+275,Maryland,2006,16.74,15.11,False,False
+276,Massachusetts,2006,17.96,16.53,False,False
+277,Michigan,2006,15.86,15.88,False,False
+278,Minnesota,2006,16.13,15.85,False,False
+279,Mississippi,2006,11.68,13.05,False,False
+280,Missouri,2006,13.44,15.02,False,False
+281,Montana,2006,12.34,14.38,False,True
+282,Nebraska,2006,13.31,15.41,False,False
+283,Nevada,2006,13.82,16.05,False,True
+284,New Hampshire,2006,15.11,14.87,False,False
+285,New Jersey,2006,17.23,16.0,False,False
+286,New Mexico,2006,12.85,12.72,False,False
+287,New York,2006,16.91,16.09,False,False
+288,North Carolina,2006,13.45,14.17,False,False
+289,North Dakota,2006,12.77,14.25,False,False
+290,Ohio,2006,14.47,15.28,False,False
+291,Oklahoma,2006,12.42,12.58,False,False
+292,Oregon,2006,14.92,14.84,False,True
+293,Pennsylvania,2006,14.33,14.41,False,False
+294,Rhode Island,2006,15.59,14.79,False,True
+295,South Carolina,2006,12.85,12.81,False,False
+296,South Dakota,2006,11.96,13.09,False,False
+297,Tennessee,2006,13.12,14.67,False,False
+298,Texas,2006,13.26,13.33,False,False
+299,Utah,2006,13.46,14.87,False,False
+300,Vermont,2006,14.19,13.78,False,True
+301,Virginia,2006,15.2,13.37,False,False
+302,Washington,2006,16.81,16.49,False,True
+303,West Virginia,2006,11.91,11.53,False,False
+304,Wisconsin,2006,14.49,15.29,False,False
+305,Wyoming,2006,13.77,14.8,False,False
+306,Alabama,2007,13.11,13.61,False,False
+307,Alaska,2007,18.45,17.48,False,True
+308,Arizona,2007,14.25,14.75,False,False
+309,Arkansas,2007,12.44,15.71,False,False
+310,California,2007,16.91,16.48,False,True
+311,Colorado,2007,16.29,15.9,False,True
+312,Connecticut,2007,18.34,15.87,False,False
+313,Delaware,2007,16.19,15.0,False,False
+314,District of Columbia,2007,25.19,16.25,False,False
+315,Florida,2007,13.87,13.73,False,False
+316,Georgia,2007,14.16,14.3,False,False
+317,Hawaii,2007,15.54,15.7,False,True
+318,Idaho,2007,13.79,14.01,False,False
+319,Illinois,2007,15.8,16.72,False,False
+320,Indiana,2007,14.13,15.83,False,False
+321,Iowa,2007,13.68,15.2,False,False
+322,Kansas,2007,13.97,14.29,False,False
+323,Kentucky,2007,13.56,14.16,False,False
+324,Louisiana,2007,13.21,12.06,False,False
+325,Maine,2007,14.28,13.99,False,True
+326,Maryland,2007,17.48,15.87,False,False
+327,Massachusetts,2007,18.47,16.86,False,False
+328,Michigan,2007,16.13,15.96,False,False
+329,Minnesota,2007,16.57,16.07,False,False
+330,Mississippi,2007,12.13,13.47,False,False
+331,Missouri,2007,14.02,15.2,False,False
+332,Montana,2007,12.82,13.29,False,True
+333,Nebraska,2007,13.73,17.3,False,False
+334,Nevada,2007,14.34,16.76,False,True
+335,New Hampshire,2007,15.54,15.29,False,False
+336,New Jersey,2007,17.77,16.75,False,False
+337,New Mexico,2007,13.26,13.36,False,True
+338,New York,2007,17.53,16.8,False,False
+339,North Carolina,2007,13.92,14.76,False,False
+340,North Dakota,2007,13.25,14.76,False,False
+341,Ohio,2007,14.85,15.84,False,False
+342,Oklahoma,2007,12.82,13.14,False,False
+343,Oregon,2007,15.35,14.75,False,True
+344,Pennsylvania,2007,14.83,15.0,False,False
+345,Rhode Island,2007,16.03,15.67,False,True
+346,South Carolina,2007,13.35,13.5,False,False
+347,South Dakota,2007,12.37,13.76,False,False
+348,Tennessee,2007,13.44,15.23,False,False
+349,Texas,2007,13.76,13.87,False,False
+350,Utah,2007,13.99,15.17,False,False
+351,Vermont,2007,14.81,14.85,False,True
+352,Virginia,2007,15.71,13.9,False,False
+353,Washington,2007,17.39,16.88,False,True
+354,West Virginia,2007,12.22,11.9,False,False
+355,Wisconsin,2007,14.91,15.45,False,False
+356,Wyoming,2007,14.66,15.78,False,False
+357,Alabama,2008,13.53,13.95,False,False
+358,Alaska,2008,18.84,18.14,False,True
+359,Arizona,2008,14.87,15.32,False,False
+360,Arkansas,2008,12.88,15.99,False,False
+361,California,2008,17.52,17.18,False,True
+362,Colorado,2008,16.87,16.7,False,True
+363,Connecticut,2008,18.91,16.56,False,False
+364,Delaware,2008,16.86,15.88,False,False
+365,District of Columbia,2008,26.62,16.43,False,False
+366,Florida,2008,14.33,14.23,False,False
+367,Georgia,2008,14.74,15.19,False,False
+368,Hawaii,2008,16.05,15.98,False,True
+369,Idaho,2008,14.32,14.2,False,False
+370,Illinois,2008,16.3,16.98,False,False
+371,Indiana,2008,14.59,16.03,False,False
+372,Iowa,2008,14.15,15.66,False,False
+373,Kansas,2008,14.48,15.08,False,False
+374,Kentucky,2008,14.12,14.6,False,False
+375,Louisiana,2008,13.9,12.73,False,False
+376,Maine,2008,14.78,14.31,False,True
+377,Maryland,2008,18.17,16.62,False,False
+378,Massachusetts,2008,19.09,17.08,False,False
+379,Michigan,2008,16.22,16.01,False,True
+380,Minnesota,2008,16.87,16.44,False,False
+381,Mississippi,2008,12.68,13.84,False,False
+382,Missouri,2008,14.52,15.5,False,False
+383,Montana,2008,13.41,13.92,False,True
+384,Nebraska,2008,14.08,18.15,False,False
+385,Nevada,2008,14.91,17.62,False,True
+386,New Hampshire,2008,16.01,15.35,False,False
+387,New Jersey,2008,18.23,17.48,False,False
+388,New Mexico,2008,13.76,13.9,False,True
+389,New York,2008,18.15,17.7,False,False
+390,North Carolina,2008,14.36,15.44,False,False
+391,North Dakota,2008,13.81,15.6,False,False
+392,Ohio,2008,15.25,16.28,False,False
+393,Oklahoma,2008,13.28,13.59,False,False
+394,Oregon,2008,15.73,16.35,False,True
+395,Pennsylvania,2008,15.36,15.57,False,False
+396,Rhode Island,2008,16.42,16.44,False,True
+397,South Carolina,2008,13.85,13.65,False,False
+398,South Dakota,2008,12.82,14.21,False,False
+399,Tennessee,2008,13.94,15.26,False,False
+400,Texas,2008,14.28,14.42,False,False
+401,Utah,2008,14.48,15.39,False,False
+402,Vermont,2008,15.31,15.43,False,True
+403,Virginia,2008,16.26,14.64,False,False
+404,Washington,2008,17.92,17.67,False,True
+405,West Virginia,2008,12.62,12.14,False,False
+406,Wisconsin,2008,15.29,16.0,False,False
+407,Wyoming,2008,15.52,15.89,False,False
+408,Alabama,2009,13.95,14.4,False,False
+409,Alaska,2009,19.5,19.29,False,True
+410,Arizona,2009,15.49,16.07,False,False
+411,Arkansas,2009,13.18,14.5,False,False
+412,California,2009,17.92,17.39,False,True
+413,Colorado,2009,17.44,17.04,False,True
+414,Connecticut,2009,19.29,16.47,False,False
+415,Delaware,2009,17.16,16.12,False,False
+416,District of Columbia,2009,27.79,17.04,False,False
+417,Florida,2009,14.58,14.55,False,False
+418,Georgia,2009,15.04,15.18,False,False
+419,Hawaii,2009,16.61,16.61,False,True
+420,Idaho,2009,14.44,14.28,False,False
+421,Illinois,2009,16.74,16.87,False,False
+422,Indiana,2009,14.72,16.42,False,False
+423,Iowa,2009,14.4,16.2,False,False
+424,Kansas,2009,14.64,15.17,False,False
+425,Kentucky,2009,14.38,14.84,False,False
+426,Louisiana,2009,14.16,13.13,False,False
+427,Maine,2009,15.01,14.46,False,True
+428,Maryland,2009,18.77,17.19,False,False
+429,Massachusetts,2009,19.64,17.34,False,False
+430,Michigan,2009,16.22,16.02,False,True
+431,Minnesota,2009,17.14,16.76,False,False
+432,Mississippi,2009,12.74,13.89,False,False
+433,Missouri,2009,14.7,15.94,False,False
+434,Montana,2009,13.65,14.46,False,True
+435,Nebraska,2009,14.39,19.09,False,False
+436,Nevada,2009,15.26,17.87,False,True
+437,New Hampshire,2009,16.36,15.62,False,False
+438,New Jersey,2009,18.56,17.55,False,False
+439,New Mexico,2009,14.1,14.26,False,True
+440,New York,2009,18.49,18.18,False,False
+441,North Carolina,2009,14.7,15.53,False,False
+442,North Dakota,2009,14.06,16.25,False,False
+443,Ohio,2009,15.3,16.3,False,False
+444,Oklahoma,2009,13.53,13.99,False,False
+445,Oregon,2009,16.16,16.57,False,True
+446,Pennsylvania,2009,15.87,16.05,False,False
+447,Rhode Island,2009,16.8,16.45,False,True
+448,South Carolina,2009,14.14,13.99,False,False
+449,South Dakota,2009,13.06,14.7,False,False
+450,Tennessee,2009,14.17,15.29,False,False
+451,Texas,2009,14.83,14.88,False,False
+452,Utah,2009,14.79,16.38,False,False
+453,Vermont,2009,15.73,15.92,False,True
+454,Virginia,2009,16.75,14.98,False,False
+455,Washington,2009,18.37,18.1,False,True
+456,West Virginia,2009,12.98,12.87,False,False
+457,Wisconsin,2009,15.56,16.28,False,False
+458,Wyoming,2009,16.2,16.2,False,False
+459,Alabama,2010,14.21,14.57,False,False
+460,Alaska,2010,20.02,19.89,False,True
+461,Arizona,2010,15.89,16.59,False,True
+462,Arkansas,2010,13.39,15.27,False,False
+463,California,2010,18.21,17.43,False,True
+464,Colorado,2010,17.68,16.9,False,True
+465,Connecticut,2010,19.56,16.47,False,False
+466,Delaware,2010,17.26,15.78,False,False
+467,District of Columbia,2010,28.71,15.27,False,False
+468,Florida,2010,14.71,14.69,False,False
+469,Georgia,2010,15.2,15.06,False,False
+470,Hawaii,2010,17.06,17.65,False,True
+471,Idaho,2010,14.54,14.57,False,False
+472,Illinois,2010,16.87,17.11,False,False
+473,Indiana,2010,14.85,16.65,False,False
+474,Iowa,2010,14.6,15.37,False,False
+475,Kansas,2010,14.71,15.25,False,False
+476,Kentucky,2010,14.47,15.18,False,False
+477,Louisiana,2010,14.5,13.82,False,False
+478,Maine,2010,15.28,14.73,False,True
+479,Maryland,2010,19.11,17.43,False,False
+480,Massachusetts,2010,20.13,17.49,False,False
+481,Michigan,2010,16.26,16.13,False,True
+482,Minnesota,2010,17.3,16.74,False,False
+483,Mississippi,2010,12.83,13.85,False,False
+484,Missouri,2010,14.78,15.74,False,False
+485,Montana,2010,13.95,15.39,False,True
+486,Nebraska,2010,14.57,17.67,False,False
+487,Nevada,2010,15.47,18.21,False,True
+488,New Hampshire,2010,16.7,15.62,False,False
+489,New Jersey,2010,18.76,17.99,False,True
+490,New Mexico,2010,14.45,14.53,False,True
+491,New York,2010,18.69,17.98,False,False
+492,North Carolina,2010,14.95,15.38,False,False
+493,North Dakota,2010,14.5,16.68,False,False
+494,Ohio,2010,15.45,16.31,False,False
+495,Oklahoma,2010,13.89,14.48,False,False
+496,Oregon,2010,16.58,16.8,False,True
+497,Pennsylvania,2010,16.27,16.02,False,False
+498,Rhode Island,2010,17.39,16.83,False,True
+499,South Carolina,2010,14.33,14.22,False,False
+500,South Dakota,2010,13.42,14.6,False,False
+501,Tennessee,2010,14.38,15.26,False,False
+502,Texas,2010,15.14,15.22,False,False
+503,Utah,2010,15.04,16.14,False,False
+504,Vermont,2010,15.97,15.96,False,True
+505,Virginia,2010,17.18,15.36,False,False
+506,Washington,2010,18.76,18.55,False,True
+507,West Virginia,2010,13.19,12.9,False,False
+508,Wisconsin,2010,15.78,16.18,False,False
+509,Wyoming,2010,16.84,17.15,False,False
+510,Alabama,2011,14.35,14.58,False,False
+511,Alaska,2011,20.65,20.98,False,True
+512,Arizona,2011,16.4,17.02,False,True
+513,Arkansas,2011,13.68,15.62,False,False
+514,California,2011,18.52,17.54,False,True
+515,Colorado,2011,17.82,16.81,False,True
+516,Connecticut,2011,19.87,16.37,False,False
+517,Delaware,2011,17.4,15.78,False,True
+518,District of Columbia,2011,29.41,18.35,False,True
+519,Florida,2011,14.79,14.8,False,False
+520,Georgia,2011,15.25,15.32,False,False
+521,Hawaii,2011,17.44,17.71,False,True
+522,Idaho,2011,14.51,14.97,False,False
+523,Illinois,2011,16.95,17.53,False,False
+524,Indiana,2011,15.04,16.79,False,False
+525,Iowa,2011,14.99,16.08,False,False
+526,Kansas,2011,14.82,15.53,False,False
+527,Kentucky,2011,14.62,15.75,False,False
+528,Louisiana,2011,14.77,14.37,False,False
+529,Maine,2011,15.63,15.42,False,True
+530,Maryland,2011,19.45,17.64,False,False
+531,Massachusetts,2011,20.54,16.86,False,False
+532,Michigan,2011,16.47,16.26,False,True
+533,Minnesota,2011,17.54,16.86,False,False
+534,Mississippi,2011,13.11,14.44,False,False
+535,Missouri,2011,14.99,15.47,False,False
+536,Montana,2011,14.13,15.66,False,True
+537,Nebraska,2011,14.82,17.9,False,False
+538,Nevada,2011,15.7,18.05,False,True
+539,New Hampshire,2011,16.99,15.64,False,False
+540,New Jersey,2011,19.01,18.16,False,True
+541,New Mexico,2011,14.92,15.15,False,True
+542,New York,2011,19.02,18.24,False,False
+543,North Carolina,2011,15.16,15.37,False,False
+544,North Dakota,2011,15.4,18.05,False,False
+545,Ohio,2011,15.67,16.26,False,False
+546,Oklahoma,2011,14.26,14.81,False,False
+547,Oregon,2011,16.9,15.86,False,True
+548,Pennsylvania,2011,16.71,16.44,False,False
+549,Rhode Island,2011,17.72,16.77,False,True
+550,South Carolina,2011,14.45,14.51,False,False
+551,South Dakota,2011,13.78,15.11,False,False
+552,Tennessee,2011,14.56,15.15,False,False
+553,Texas,2011,15.44,15.36,False,False
+554,Utah,2011,15.41,17.4,False,False
+555,Vermont,2011,16.36,15.78,False,True
+556,Virginia,2011,17.45,15.37,False,False
+557,Washington,2011,19.3,18.6,False,True
+558,West Virginia,2011,13.46,13.19,False,False
+559,Wisconsin,2011,16.04,16.34,False,False
+560,Wyoming,2011,17.37,18.45,False,False
+561,Alabama,2012,14.4,14.45,False,False
+562,Alaska,2012,20.92,21.01,False,True
+563,Arizona,2012,16.34,17.11,False,True
+564,Arkansas,2012,13.79,15.01,False,False
+565,California,2012,18.64,17.58,False,True
+566,Colorado,2012,17.84,17.12,True,True
+567,Connecticut,2012,20.2,17.33,False,True
+568,Delaware,2012,17.65,16.57,False,True
+569,District of Columbia,2012,29.79,17.47,False,True
+570,Florida,2012,14.72,14.83,False,False
+571,Georgia,2012,15.48,15.39,False,False
+572,Hawaii,2012,17.47,18.0,False,True
+573,Idaho,2012,14.58,15.49,False,False
+574,Illinois,2012,17.06,17.98,False,False
+575,Indiana,2012,15.26,16.66,False,False
+576,Iowa,2012,15.33,16.7,False,False
+577,Kansas,2012,15.06,15.83,False,False
+578,Kentucky,2012,14.78,15.88,False,False
+579,Louisiana,2012,14.93,14.74,False,False
+580,Maine,2012,15.84,15.57,False,True
+581,Maryland,2012,19.52,17.86,False,False
+582,Massachusetts,2012,20.88,17.34,False,True
+583,Michigan,2012,16.52,16.11,False,True
+584,Minnesota,2012,17.74,17.32,False,False
+585,Mississippi,2012,13.37,14.56,False,False
+586,Missouri,2012,15.21,16.0,False,False
+587,Montana,2012,14.49,16.02,False,True
+588,Nebraska,2012,15.01,16.48,False,False
+589,Nevada,2012,15.87,18.09,False,True
+590,New Hampshire,2012,17.18,15.51,False,False
+591,New Jersey,2012,19.17,18.14,False,True
+592,New Mexico,2012,15.11,15.43,False,True
+593,New York,2012,19.19,18.61,False,False
+594,North Carolina,2012,15.31,15.55,False,False
+595,North Dakota,2012,16.4,19.29,False,False
+596,Ohio,2012,16.03,16.31,False,False
+597,Oklahoma,2012,14.52,15.34,False,False
+598,Oregon,2012,17.14,17.07,False,True
+599,Pennsylvania,2012,16.78,16.29,False,False
+600,Rhode Island,2012,17.96,17.53,False,True
+601,South Carolina,2012,14.52,14.57,False,False
+602,South Dakota,2012,13.99,15.19,False,False
+603,Tennessee,2012,14.59,15.58,False,False
+604,Texas,2012,15.55,15.63,False,False
+605,Utah,2012,15.75,17.21,False,False
+606,Vermont,2012,16.61,16.04,False,True
+607,Virginia,2012,17.61,15.47,False,False
+608,Washington,2012,19.47,18.64,True,True
+609,West Virginia,2012,13.73,13.72,False,False
+610,Wisconsin,2012,16.18,16.44,False,False
+611,Wyoming,2012,17.67,19.35,False,False
+612,Alabama,2013,14.61,14.55,False,False
+613,Alaska,2013,21.32,21.56,False,True
+614,Arizona,2013,16.43,16.39,False,True
+615,Arkansas,2013,13.9,14.73,False,False
+616,California,2013,18.71,17.5,False,True
+617,Colorado,2013,18.04,17.36,True,True
+618,Connecticut,2013,20.33,17.4,False,True
+619,Delaware,2013,17.94,16.82,False,True
+620,District of Columbia,2013,30.62,18.1,False,True
+621,Florida,2013,14.74,14.78,False,False
+622,Georgia,2013,15.63,15.67,False,False
+623,Hawaii,2013,17.75,18.05,False,True
+624,Idaho,2013,14.68,15.25,False,False
+625,Illinois,2013,17.18,17.94,False,True
+626,Indiana,2013,15.38,16.49,False,False
+627,Iowa,2013,15.57,17.62,False,False
+628,Kansas,2013,15.44,15.93,False,False
+629,Kentucky,2013,15.01,15.97,False,False
+630,Louisiana,2013,15.03,14.73,False,False
+631,Maine,2013,16.06,15.38,False,True
+632,Maryland,2013,19.57,17.74,False,True
+633,Massachusetts,2013,21.07,17.4,False,True
+634,Michigan,2013,16.67,16.16,False,True
+635,Minnesota,2013,17.98,17.61,False,False
+636,Mississippi,2013,13.57,14.8,False,False
+637,Missouri,2013,15.55,16.23,False,False
+638,Montana,2013,14.79,16.52,False,True
+639,Nebraska,2013,15.31,17.8,False,False
+640,Nevada,2013,16.03,17.7,False,True
+641,New Hampshire,2013,17.21,15.88,False,True
+642,New Jersey,2013,19.35,18.37,False,True
+643,New Mexico,2013,15.14,15.22,False,True
+644,New York,2013,19.45,18.79,False,False
+645,North Carolina,2013,15.46,15.75,False,False
+646,North Dakota,2013,17.14,20.26,False,False
+647,Ohio,2013,16.22,16.54,False,False
+648,Oklahoma,2013,14.77,15.41,False,False
+649,Oregon,2013,17.24,16.68,False,True
+650,Pennsylvania,2013,16.98,16.75,False,False
+651,Rhode Island,2013,18.03,17.86,False,True
+652,South Carolina,2013,14.56,15.03,False,False
+653,South Dakota,2013,14.14,15.53,False,False
+654,Tennessee,2013,14.9,15.92,False,False
+655,Texas,2013,15.81,15.76,False,False
+656,Utah,2013,16.0,17.88,False,False
+657,Vermont,2013,17.01,16.43,False,True
+658,Virginia,2013,17.77,15.58,False,False
+659,Washington,2013,19.67,18.59,True,True
+660,West Virginia,2013,13.96,14.14,False,False
+661,Wisconsin,2013,16.32,16.74,False,False
+662,Wyoming,2013,17.79,19.43,False,False
+663,Alabama,2014,14.83,15.23,False,False
+664,Alaska,2014,21.73,21.28,True,True
+665,Arizona,2014,16.46,16.17,False,True
+666,Arkansas,2014,14.01,14.61,False,False
+667,California,2014,18.84,17.85,False,True
+668,Colorado,2014,18.28,18.06,True,True
+669,Connecticut,2014,20.67,18.17,False,True
+670,Delaware,2014,18.03,16.61,False,True
+671,District of Columbia,2014,31.2,18.36,False,True
+672,Florida,2014,14.93,15.14,False,False
+673,Georgia,2014,15.79,15.7,False,False
+674,Hawaii,2014,18.01,18.46,False,True
+675,Idaho,2014,14.93,15.65,False,False
+676,Illinois,2014,17.59,18.14,False,True
+677,Indiana,2014,15.63,16.81,False,False
+678,Iowa,2014,15.91,17.98,False,False
+679,Kansas,2014,15.83,16.31,False,False
+680,Kentucky,2014,15.3,16.46,False,False
+681,Louisiana,2014,15.2,14.88,False,False
+682,Maine,2014,16.29,15.89,False,True
+683,Maryland,2014,19.63,17.84,False,True
+684,Massachusetts,2014,21.48,18.42,False,True
+685,Michigan,2014,16.7,16.26,False,True
+686,Minnesota,2014,18.3,18.0,False,True
+687,Mississippi,2014,13.76,15.1,False,False
+688,Missouri,2014,15.76,16.69,False,False
+689,Montana,2014,15.15,17.27,False,True
+690,Nebraska,2014,15.66,18.34,False,False
+691,Nevada,2014,16.13,18.24,False,True
+692,New Hampshire,2014,17.51,16.38,False,True
+693,New Jersey,2014,19.56,18.53,False,True
+694,New Mexico,2014,15.29,15.23,False,True
+695,New York,2014,19.65,18.98,False,True
+696,North Carolina,2014,15.63,15.67,False,False
+697,North Dakota,2014,17.75,21.22,False,False
+698,Ohio,2014,16.47,17.25,False,False
+699,Oklahoma,2014,15.17,15.98,False,False
+700,Oregon,2014,17.5,17.17,True,True
+701,Pennsylvania,2014,17.13,16.88,False,False
+702,Rhode Island,2014,18.43,17.88,False,True
+703,South Carolina,2014,14.74,15.73,False,False
+704,South Dakota,2014,14.36,16.05,False,False
+705,Tennessee,2014,15.02,16.22,False,False
+706,Texas,2014,16.18,16.16,False,False
+707,Utah,2014,16.2,17.95,False,False
+708,Vermont,2014,17.39,17.15,False,True
+709,Virginia,2014,18.05,16.82,False,False
+710,Washington,2014,19.76,19.0,True,True
+711,West Virginia,2014,14.14,14.67,False,False
+712,Wisconsin,2014,16.52,16.91,False,False
+713,Wyoming,2014,18.16,20.17,False,False
+714,Alabama,2015,15.17,15.17,False,False
+715,Alaska,2015,22.32,21.39,True,True
+716,Arizona,2015,16.67,16.37,False,True
+717,Arkansas,2015,14.14,15.56,False,False
+718,California,2015,19.15,18.1,False,True
+719,Colorado,2015,18.66,18.49,True,True
+720,Connecticut,2015,21.07,18.37,False,True
+721,Delaware,2015,18.15,16.81,False,True
+722,District of Columbia,2015,31.75,18.28,True,True
+723,Florida,2015,15.29,15.56,False,False
+724,Georgia,2015,16.07,16.39,False,True
+725,Hawaii,2015,18.63,18.55,False,True
+726,Idaho,2015,15.32,16.11,False,False
+727,Illinois,2015,17.94,18.21,False,True
+728,Indiana,2015,15.82,16.85,False,False
+729,Iowa,2015,16.18,17.69,False,False
+730,Kansas,2015,16.2,16.17,False,False
+731,Kentucky,2015,15.55,16.58,False,False
+732,Louisiana,2015,15.38,15.13,False,True
+733,Maine,2015,16.69,15.92,False,True
+734,Maryland,2015,20.13,18.12,False,True
+735,Massachusetts,2015,21.91,18.68,False,True
+736,Michigan,2015,17.02,16.77,False,True
+737,Minnesota,2015,18.69,17.4,False,True
+738,Mississippi,2015,13.94,15.55,False,False
+739,Missouri,2015,16.05,17.06,False,False
+740,Montana,2015,15.37,17.54,False,True
+741,Nebraska,2015,16.27,17.99,False,False
+742,Nevada,2015,16.2,18.51,False,True
+743,New Hampshire,2015,17.92,16.28,False,True
+744,New Jersey,2015,19.86,18.88,False,True
+745,New Mexico,2015,15.54,16.22,False,True
+746,New York,2015,20.0,19.25,False,True
+747,North Carolina,2015,15.91,16.14,False,False
+748,North Dakota,2015,18.35,22.26,False,False
+749,Ohio,2015,16.84,17.76,False,False
+750,Oklahoma,2015,15.59,16.76,False,False
+751,Oregon,2015,17.83,17.6,True,True
+752,Pennsylvania,2015,17.38,17.3,False,False
+753,Rhode Island,2015,18.77,18.0,False,True
+754,South Carolina,2015,15.04,15.91,False,False
+755,South Dakota,2015,14.8,16.27,False,False
+756,Tennessee,2015,15.3,16.39,False,False
+757,Texas,2015,16.61,16.63,False,False
+758,Utah,2015,16.34,18.2,False,False
+759,Vermont,2015,17.81,17.44,False,True
+760,Virginia,2015,18.36,16.95,False,False
+761,Washington,2015,20.28,19.33,True,True
+762,West Virginia,2015,14.54,14.68,False,False
+763,Wisconsin,2015,16.88,17.06,False,False
+764,Wyoming,2015,18.41,20.44,False,False
+765,Alabama,2016,15.43,15.0,False,False
+766,Alaska,2016,22.68,21.96,True,True
+767,Arizona,2016,17.05,17.07,False,True
+768,Arkansas,2016,14.48,15.94,False,True
+769,California,2016,19.67,18.53,True,True
+770,Colorado,2016,19.09,19.07,True,True
+771,Connecticut,2016,21.68,18.88,False,True
+772,Delaware,2016,18.25,16.74,False,True
+773,District of Columbia,2016,32.63,16.64,True,True
+774,Florida,2016,15.77,15.97,False,True
+775,Georgia,2016,16.51,16.92,False,True
+776,Hawaii,2016,19.24,18.65,False,True
+777,Idaho,2016,15.77,16.56,False,False
+778,Illinois,2016,18.4,18.72,False,True
+779,Indiana,2016,16.25,17.85,False,False
+780,Iowa,2016,16.72,17.86,False,False
+781,Kansas,2016,16.57,16.99,False,False
+782,Kentucky,2016,15.96,17.17,False,False
+783,Louisiana,2016,15.43,15.38,False,True
+784,Maine,2016,17.01,16.43,True,True
+785,Maryland,2016,20.68,18.57,False,True
+786,Massachusetts,2016,22.45,19.18,True,True
+787,Michigan,2016,17.32,17.27,False,True
+788,Minnesota,2016,19.28,18.51,False,True
+789,Mississippi,2016,14.22,15.76,False,False
+790,Missouri,2016,16.46,17.5,False,False
+791,Montana,2016,15.75,17.85,False,True
+792,Nebraska,2016,16.77,18.11,False,False
+793,Nevada,2016,16.59,19.28,True,True
+794,New Hampshire,2016,18.4,16.77,False,True
+795,New Jersey,2016,20.17,19.43,False,True
+796,New Mexico,2016,15.82,16.3,False,True
+797,New York,2016,20.56,19.79,False,True
+798,North Carolina,2016,16.31,16.39,False,False
+799,North Dakota,2016,18.83,22.64,False,True
+800,Ohio,2016,17.19,18.0,False,True
+801,Oklahoma,2016,15.93,16.86,False,False
+802,Oregon,2016,18.26,18.61,True,True
+803,Pennsylvania,2016,17.63,17.63,False,True
+804,Rhode Island,2016,19.1,18.0,False,True
+805,South Carolina,2016,15.45,15.78,False,False
+806,South Dakota,2016,15.19,16.51,False,False
+807,Tennessee,2016,15.77,17.18,False,False
+808,Texas,2016,17.06,17.04,False,False
+809,Utah,2016,16.83,18.63,False,False
+810,Vermont,2016,18.23,17.52,False,True
+811,Virginia,2016,18.78,17.11,False,False
+812,Washington,2016,20.87,20.15,True,True
+813,West Virginia,2016,14.79,14.87,False,False
+814,Wisconsin,2016,17.43,17.68,False,False
+815,Wyoming,2016,18.61,20.73,False,False
+816,Alabama,2017,15.77,15.2,False,False
+817,Alaska,2017,22.86,22.68,True,True
+818,Arizona,2017,17.44,17.8,False,True
+819,Arkansas,2017,14.82,16.26,False,True
+820,California,2017,19.7,19.08,True,True
+821,Colorado,2017,19.66,19.17,True,True
+822,Connecticut,2017,22.05,19.37,False,True
+823,Delaware,2017,18.68,17.87,False,True
+824,District of Columbia,2017,33.82,17.48,True,True
+825,Florida,2017,16.07,16.33,False,True
+826,Georgia,2017,16.85,17.32,False,True
+827,Hawaii,2017,20.02,19.49,False,True
+828,Idaho,2017,15.99,17.06,False,False
+829,Illinois,2017,18.69,19.73,False,True
+830,Indiana,2017,16.63,18.17,False,False
+831,Iowa,2017,17.27,18.27,False,True
+832,Kansas,2017,16.9,17.55,False,False
+833,Kentucky,2017,16.25,17.53,False,False
+834,Louisiana,2017,15.62,15.9,False,True
+835,Maine,2017,17.41,16.63,True,True
+836,Maryland,2017,21.08,18.88,False,True
+837,Massachusetts,2017,22.81,20.21,True,True
+838,Michigan,2017,17.62,17.48,False,True
+839,Minnesota,2017,19.84,19.35,False,True
+840,Mississippi,2017,14.46,15.71,False,False
+841,Missouri,2017,16.85,18.04,False,False
+842,Montana,2017,16.27,17.8,False,True
+843,Nebraska,2017,17.37,18.57,False,False
+844,Nevada,2017,16.79,19.67,True,True
+845,New Hampshire,2017,18.7,17.52,False,True
+846,New Jersey,2017,20.43,19.87,False,True
+847,New Mexico,2017,16.08,17.0,False,True
+848,New York,2017,21.0,20.5,False,True
+849,North Carolina,2017,16.71,16.94,False,False
+850,North Dakota,2017,19.25,22.82,False,True
+851,Ohio,2017,17.55,18.04,False,True
+852,Oklahoma,2017,16.17,17.43,False,False
+853,Oregon,2017,18.67,19.41,True,True
+854,Pennsylvania,2017,18.05,17.93,False,True
+855,Rhode Island,2017,19.45,18.18,False,True
+856,South Carolina,2017,15.76,16.22,False,False
+857,South Dakota,2017,15.55,16.8,False,False
+858,Tennessee,2017,16.28,17.58,False,False
+859,Texas,2017,17.39,17.59,False,False
+860,Utah,2017,17.14,19.52,False,False
+861,Vermont,2017,18.57,18.14,False,True
+862,Virginia,2017,19.13,16.91,False,False
+863,Washington,2017,21.36,20.58,True,True
+864,West Virginia,2017,15.16,15.35,False,True
+865,Wisconsin,2017,17.81,18.28,False,False
+866,Wyoming,2017,18.81,21.03,False,False
+867,Alabama,2018,16.22,15.36,False,False
+868,Alaska,2018,23.09,23.83,True,True
+869,Arizona,2018,17.8,18.41,False,True
+870,Arkansas,2018,15.31,16.79,False,True
+871,California,2018,20.4,20.16,True,True
+872,Colorado,2018,20.34,19.55,True,True
+873,Connecticut,2018,22.56,19.57,False,True
+874,Delaware,2018,19.18,18.28,False,True
+875,District of Columbia,2018,34.46,19.5,True,True
+876,Florida,2018,16.62,16.66,False,True
+877,Georgia,2018,17.28,17.6,False,True
+878,Hawaii,2018,20.42,19.59,False,True
+879,Idaho,2018,16.47,17.0,False,False
+880,Illinois,2018,19.21,20.62,False,True
+881,Indiana,2018,17.18,18.63,False,False
+882,Iowa,2018,17.84,18.61,False,True
+883,Kansas,2018,17.28,18.56,False,False
+884,Kentucky,2018,16.66,18.31,False,False
+885,Louisiana,2018,16.05,16.26,False,True
+886,Maine,2018,17.85,16.99,True,True
+887,Maryland,2018,21.49,19.34,False,True
+888,Massachusetts,2018,23.4,20.79,True,True
+889,Michigan,2018,18.08,17.98,True,True
+890,Minnesota,2018,20.49,20.05,False,True
+891,Mississippi,2018,14.7,15.99,False,False
+892,Missouri,2018,17.33,18.47,False,True
+893,Montana,2018,16.87,18.47,False,True
+894,Nebraska,2018,17.85,19.76,False,False
+895,Nevada,2018,17.09,20.38,True,True
+896,New Hampshire,2018,19.17,18.41,False,True
+897,New Jersey,2018,20.96,20.47,False,True
+898,New Mexico,2018,16.4,17.3,False,True
+899,New York,2018,21.63,20.96,False,True
+900,North Carolina,2018,17.19,17.46,False,False
+901,North Dakota,2018,19.87,23.46,False,True
+902,Ohio,2018,17.96,18.12,False,True
+903,Oklahoma,2018,16.62,17.77,False,True
+904,Oregon,2018,19.03,20.02,True,True
+905,Pennsylvania,2018,18.49,18.32,False,True
+906,Rhode Island,2018,20.21,18.52,False,True
+907,South Carolina,2018,16.23,17.01,False,False
+908,South Dakota,2018,16.08,17.39,False,False
+909,Tennessee,2018,16.78,18.43,False,False
+910,Texas,2018,17.84,18.33,False,False
+911,Utah,2018,17.69,19.69,False,True
+912,Vermont,2018,19.1,18.54,False,True
+913,Virginia,2018,19.63,17.29,False,False
+914,Washington,2018,22.17,21.66,True,True
+915,West Virginia,2018,15.69,15.76,False,True
+916,Wisconsin,2018,18.25,19.2,False,False
+917,Wyoming,2018,19.34,21.4,False,False
+918,Alabama,2019,16.73,17.82,False,False
+919,Alaska,2019,23.34,25.13,True,True
+920,Arizona,2019,18.46,19.65,False,True
+921,Arkansas,2019,15.84,18.44,False,True
+922,California,2019,21.24,21.29,True,True
+923,Colorado,2019,21.28,20.99,True,True
+924,Connecticut,2019,23.33,20.54,False,True
+925,Delaware,2019,19.66,19.8,False,True
+926,District of Columbia,2019,35.74,21.38,True,True
+927,Florida,2019,17.23,17.61,False,True
+928,Georgia,2019,17.75,19.57,False,True
+929,Hawaii,2019,21.35,20.26,False,True
+930,Idaho,2019,17.0,18.73,False,False
+931,Illinois,2019,19.74,21.75,True,True
+932,Indiana,2019,17.77,19.89,False,False
+933,Iowa,2019,18.41,18.79,False,True
+934,Kansas,2019,17.79,20.09,False,False
+935,Kentucky,2019,17.09,19.27,False,False
+936,Louisiana,2019,16.66,17.16,False,True
+937,Maine,2019,18.45,17.6,True,True
+938,Maryland,2019,22.1,20.95,False,True
+939,Massachusetts,2019,24.14,21.71,True,True
+940,Michigan,2019,18.6,18.86,True,True
+941,Minnesota,2019,21.21,21.56,False,True
+942,Mississippi,2019,15.0,18.74,False,False
+943,Missouri,2019,17.88,20.22,False,True
+944,Montana,2019,17.51,20.15,False,True
+945,Nebraska,2019,18.46,20.69,False,False
+946,Nevada,2019,17.51,20.89,True,True
+947,New Hampshire,2019,19.95,19.87,False,True
+948,New Jersey,2019,21.64,21.24,False,True
+949,New Mexico,2019,17.03,18.8,False,True
+950,New York,2019,22.44,22.62,False,True
+951,North Carolina,2019,17.75,18.81,False,False
+952,North Dakota,2019,20.44,24.62,False,True
+953,Ohio,2019,18.54,19.67,False,True
+954,Oklahoma,2019,17.18,20.25,False,True
+955,Oregon,2019,19.83,21.24,True,True
+956,Pennsylvania,2019,18.99,19.96,False,True
+957,Rhode Island,2019,21.24,19.49,False,True
+958,South Carolina,2019,16.68,18.38,False,False
+959,South Dakota,2019,16.71,18.68,False,False
+960,Tennessee,2019,17.26,19.89,False,False
+961,Texas,2019,18.28,19.9,False,False
+962,Utah,2019,18.23,20.44,False,True
+963,Vermont,2019,19.68,19.45,False,True
+964,Virginia,2019,20.3,19.11,False,False
+965,Washington,2019,23.15,23.02,True,True
+966,West Virginia,2019,16.31,17.75,False,True
+967,Wisconsin,2019,18.79,20.48,False,False
+968,Wyoming,2019,20.02,22.45,False,False
+969,Alabama,2020,17.43,18.39,False,False
+970,Alaska,2020,24.45,26.35,True,True
+971,Arizona,2020,19.35,20.81,True,True
+972,Arkansas,2020,16.51,19.67,False,True
+973,California,2020,22.74,22.41,True,True
+974,Colorado,2020,22.52,22.13,True,True
+975,Connecticut,2020,24.57,21.33,False,True
+976,Delaware,2020,20.72,20.53,False,True
+977,District of Columbia,2020,38.29,21.68,True,True
+978,Florida,2020,18.07,18.0,False,True
+979,Georgia,2020,18.59,20.58,False,True
+980,Hawaii,2020,22.44,21.18,False,True
+981,Idaho,2020,17.79,19.07,False,False
+982,Illinois,2020,21.01,22.82,True,True
+983,Indiana,2020,18.56,20.92,False,False
+984,Iowa,2020,19.19,19.91,False,True
+985,Kansas,2020,18.59,20.87,False,False
+986,Kentucky,2020,17.9,20.34,False,False
+987,Louisiana,2020,17.53,18.07,False,True
+988,Maine,2020,19.45,18.73,True,True
+989,Maryland,2020,23.43,21.76,False,True
+990,Massachusetts,2020,25.75,22.38,True,True
+991,Michigan,2020,19.67,20.38,True,True
+992,Minnesota,2020,22.41,22.3,False,True
+993,Mississippi,2020,15.73,19.41,False,False
+994,Missouri,2020,18.7,20.88,False,True
+995,Montana,2020,18.2,20.91,True,True
+996,Nebraska,2020,19.16,21.4,False,False
+997,Nevada,2020,18.55,21.31,True,True
+998,New Hampshire,2020,21.22,21.02,False,True
+999,New Jersey,2020,23.14,22.68,True,True
+1000,New Mexico,2020,17.97,19.33,False,True
+1001,New York,2020,23.84,23.58,False,True
+1002,North Carolina,2020,18.63,19.52,False,False
+1003,North Dakota,2020,21.26,24.55,False,True
+1004,Ohio,2020,19.37,20.79,False,True
+1005,Oklahoma,2020,17.84,21.27,False,True
+1006,Oregon,2020,21.04,21.93,True,True
+1007,Pennsylvania,2020,20.08,20.81,False,True
+1008,Rhode Island,2020,22.77,21.53,False,True
+1009,South Carolina,2020,17.36,18.55,False,False
+1010,South Dakota,2020,17.7,19.46,False,True
+1011,Tennessee,2020,18.0,20.9,False,False
+1012,Texas,2020,19.06,20.81,False,False
+1013,Utah,2020,18.98,20.88,False,True
+1014,Vermont,2020,20.8,20.47,True,True
+1015,Virginia,2020,21.74,20.66,False,True
+1016,Washington,2020,24.81,24.14,True,True
+1017,West Virginia,2020,17.07,18.41,False,True
+1018,Wisconsin,2020,19.79,21.44,False,False
+1019,Wyoming,2020,20.69,23.24,False,False
+1020,Alabama,2021,17.91,18.14,False,True
+1021,Alaska,2021,23.47,25.22,True,True
+1022,Arizona,2021,18.99,20.77,True,True
+1023,Arkansas,2021,17.64,19.9,False,True
+1024,California,2021,23.04,22.45,True,True
+1025,Colorado,2021,23.05,21.31,True,True
+1026,Connecticut,2021,23.42,21.58,True,True
+1027,Delaware,2021,22.45,20.81,False,True
+1028,District of Columbia,2021,38.44,23.6,True,True
+1029,Florida,2021,18.23,18.82,False,True
+1030,Georgia,2021,18.43,19.29,False,True
+1031,Hawaii,2021,22.93,21.73,False,True
+1032,Idaho,2021,18.05,20.83,False,False
+1033,Illinois,2021,22.42,22.63,True,True
+1034,Indiana,2021,18.43,21.09,False,False
+1035,Iowa,2021,18.79,21.43,False,True
+1036,Kansas,2021,18.29,20.8,False,False
+1037,Kentucky,2021,18.11,20.33,False,False
+1038,Louisiana,2021,17.94,18.96,False,True
+1039,Maine,2021,20.65,20.1,True,True
+1040,Maryland,2021,23.3,21.69,False,True
+1041,Massachusetts,2021,28.14,22.44,True,True
+1042,Michigan,2021,21.73,20.96,True,True
+1043,Minnesota,2021,22.88,22.27,False,True
+1044,Mississippi,2021,16.86,19.79,False,False
+1045,Missouri,2021,18.33,20.39,False,True
+1046,Montana,2021,18.29,20.77,True,True
+1047,Nebraska,2021,18.65,22.09,False,False
+1048,Nevada,2021,18.22,20.82,True,True
+1049,New Hampshire,2021,22.58,20.43,False,True
+1050,New Jersey,2021,23.17,24.02,True,True
+1051,New Mexico,2021,18.18,20.35,True,True
+1052,New York,2021,23.46,22.93,True,True
+1053,North Carolina,2021,18.45,19.74,False,False
+1054,North Dakota,2021,22.58,22.68,False,True
+1055,Ohio,2021,19.08,21.21,False,True
+1056,Oklahoma,2021,18.03,20.24,False,True
+1057,Oregon,2021,22.55,21.11,True,True
+1058,Pennsylvania,2021,21.59,20.56,False,True
+1059,Rhode Island,2021,22.97,21.0,False,True
+1060,South Carolina,2021,17.91,19.65,False,False
+1061,South Dakota,2021,18.13,20.29,False,True
+1062,Tennessee,2021,18.13,20.63,False,False
+1063,Texas,2021,18.77,20.6,False,False
+1064,Utah,2021,18.69,21.09,False,True
+1065,Vermont,2021,22.55,20.78,True,True
+1066,Virginia,2021,22.69,20.22,True,True
+1067,Washington,2021,24.25,24.64,True,True
+1068,West Virginia,2021,17.72,17.4,False,True
+1069,Wisconsin,2021,21.63,21.24,False,False
+1070,Wyoming,2021,22.06,21.17,False,False
+1071,Alabama,2022,18.5,18.94,False,True
+1072,Alaska,2022,25.0,26.04,True,True
+1073,Arizona,2022,21.77,22.0,True,True
+1074,Arkansas,2022,17.92,19.32,False,True
+1075,California,2022,23.91,23.33,True,True
+1076,Colorado,2022,24.16,23.09,True,True
+1077,Connecticut,2022,24.9,23.09,True,True
+1078,Delaware,2022,22.67,22.16,False,True
+1079,District of Columbia,2022,39.87,23.83,True,True
+1080,Florida,2022,19.62,19.97,False,True
+1081,Georgia,2022,20.62,21.67,False,True
+1082,Hawaii,2022,23.35,22.34,False,True
+1083,Idaho,2022,19.26,21.82,False,False
+1084,Illinois,2022,22.83,24.13,True,True
+1085,Indiana,2022,20.24,22.13,False,False
+1086,Iowa,2022,21.32,22.03,False,True
+1087,Kansas,2022,20.13,21.36,False,False
+1088,Kentucky,2022,19.32,21.12,False,False
+1089,Louisiana,2022,18.74,19.34,False,True
+1090,Maine,2022,21.84,20.97,True,True
+1091,Maryland,2022,24.72,22.99,True,True
+1092,Massachusetts,2022,28.1,23.66,True,True
+1093,Michigan,2022,21.88,21.19,True,True
+1094,Minnesota,2022,23.44,23.84,False,True
+1095,Mississippi,2022,17.36,20.64,False,True
+1096,Missouri,2022,20.34,21.3,True,True
+1097,Montana,2022,20.29,21.52,True,True
+1098,Nebraska,2022,21.2,25.38,False,False
+1099,Nevada,2022,19.62,21.59,True,True
+1100,New Hampshire,2022,23.04,21.76,False,True
+1101,New Jersey,2022,24.56,25.2,True,True
+1102,New Mexico,2022,19.19,20.23,True,True
+1103,New York,2022,25.23,24.59,True,True
+1104,North Carolina,2022,20.1,20.01,False,False
+1105,North Dakota,2022,22.79,25.45,False,True
+1106,Ohio,2022,21.52,21.81,False,True
+1107,Oklahoma,2022,18.8,20.28,False,True
+1108,Oregon,2022,22.97,23.07,True,True
+1109,Pennsylvania,2022,22.02,21.54,False,True
+1110,Rhode Island,2022,23.73,22.8,True,True
+1111,South Carolina,2022,18.69,20.11,False,False
+1112,South Dakota,2022,19.17,21.13,False,True
+1113,Tennessee,2022,19.2,21.26,False,False
+1114,Texas,2022,20.9,21.14,False,False
+1115,Utah,2022,21.38,22.81,False,True
+1116,Vermont,2022,22.75,20.97,True,True
+1117,Virginia,2022,23.22,20.72,True,True
+1118,Washington,2022,27.08,25.81,True,True
+1119,West Virginia,2022,18.16,18.85,False,True
+1120,Wisconsin,2022,21.95,21.9,False,False
+1121,Wyoming,2022,21.85,21.42,False,False

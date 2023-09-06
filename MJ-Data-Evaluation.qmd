@@ -1,0 +1,59 @@
+---
+title: "Marijuana Evaluation"
+format: html
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)  
+```
+
+```{r}
+#| echo: false
+library(tidyverse)
+library(DataExplorer)
+library(skimr)
+library(esquisse)
+library(dlookr)
+data <- read_csv("data.csv")
+```
+
+We can first check some basics about the data set we imported. Do we have any missing values? How many observations of what kinds of variables do we have? What are the distributions of our variables?
+
+```{r}
+plot_intro(data)
+plot_missing(data)
+plot_bar(data)
+plot_histogram(data)
+```
+
+Our quick and dirty EDA has shown that we have no missing data. We see we have heavily imbalanced classes, with medicinal marijuana being illegal in a slight majority of state-years and recreational marijuana being illegal in a significant majority of state-years. We will have to keep this in mind with the final statistical analysis we choose to run and ensure that it is compatible with these unbalanced classes. 
+
+Our package for easy EDA, DataExplorer, has turned up histograms for the index and year columns which are not useful. However, we do see histograms for the median wage of both drivers and all occupations. These are scaled with different x-axes, so we'll remake these plots manually in ggplot to get a better idea of what's going on. It's worth observing that both appear to be right-skewed, which is not unexpected with wage data which has an absolute floor but no absolute ceiling. The "all occupations" graph seems to have a bigger tail; we can quantify this later. 
+
+```{r}
+ggplot(data, aes(x = drivers_h_median)) +
+  geom_histogram(binwidth = .25, fill = "skyblue", color = "black") +
+  scale_x_continuous(breaks = seq(0, 40, by = 5)) +
+  labs(
+    title = "Histogram of driver state median wages 2001-20222",
+    x = "$/Hour",
+    y = "Frequency"
+  ) +
+  coord_cartesian(xlim = c(10, 40)) +
+  theme_minimal()
+
+ggplot(data, aes(x = all_occ_h_median)) +
+  geom_histogram(binwidth = .25, fill = "skyblue", color = "black") +
+  scale_x_continuous(breaks = seq(0, 40, by = 5)) +
+  labs(
+    title = "Histogram of state median wages across all occuptations 2001-20222",
+    x = "$/Hour",
+    y = "Frequency"
+  ) +
+  coord_cartesian(xlim = c(10, 40)) +
+  theme_minimal()
+```
+
+We can see now that the distributions of wages look very similar across drivers and all occupations, with the exception of the longer tail on all occupations suggesting there's a very small number of state-years that have very high median wages. 
+

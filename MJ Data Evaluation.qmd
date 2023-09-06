@@ -4,8 +4,22 @@ format: html
 editor: visual
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)  
+```
+
 ```{r}
 #| echo: false
 library(tidyverse)
-data <- read_csv(data.csv)
+library(DataExplorer)
+library(skimr)
+library(esquisse)
+library(dlookr)
+data <- read_csv("data.csv")
+```
+
+We can first check to
+
+```{r}
+
 ```
