@@ -57,3 +57,16 @@ ggplot(data, aes(x = all_occ_h_median)) +
 
 We can see now that the distributions of wages look very similar across drivers and all occupations, with the exception of the longer tail on all occupations suggesting there's a very small number of state-years that have very high median wages. 
 
+Since we know that we have no missing data, we'll begin by looking at some summary statistics. We'll then decide what statistical test is appropriate. 
+
+```{r}
+summary_table <- data |>
+  group_by(med_legal, rec_legal) |>
+  summarize(
+    mean_all = mean(all_occ_h_median), n = n(),
+    mean_drivers = mean(drivers_h_median), n = n())
+
+summary_table
+```
+
+Our summary statistics are immediately interested. First, we see that pay across all occupations and for drivers specifically is higher when marijuana is legal. This makes sense, since thus far marijuana legalization has been a one-way ratchet, and nominal wages tend to climb with time. More interesting than that, we notice that when marijuana is illegal in a given state-year, the mean of median wages for drivers are higher than for all other occupations, while wages for drivers are actually lower than all other occupations in legal state-years. This could be evidence that marijuana legalization actually predicts lower wages, but there are other reasonable explanations. It's virtually certain that the states that have legalized marijuana are not a random subset of states, and it's possible that these states are states in which drivers command relatively low wages. We'll have to consider the impact of legalization in each state specifically to account for this in our final statistical tests. Finally, it's just interesting to note that despite grouping by two binary variable, we have only three cases, because there are no state-years in which recreational marijuana is legal but medicinal marijuana is illegal. 

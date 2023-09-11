@@ -143,6 +143,26 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="MJ-Data-Evaluation_files/figure-html/unnamed-chunk-3-2.png" class="img-fluid" width="672"></p>
 </div>
 </div>
+<p>We can see now that the distributions of wages look very similar across drivers and all occupations, with the exception of the longer tail on all occupations suggesting there’s a very small number of state-years that have very high median wages.</p>
+<p>Since we know that we have no missing data, we’ll begin by looking at some summary statistics. We’ll then decide what statistical test is appropriate.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>summary_table <span class="ot">&lt;-</span> data <span class="sc">|&gt;</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(med_legal, rec_legal) <span class="sc">|&gt;</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>    <span class="at">mean_all =</span> <span class="fu">mean</span>(all_occ_h_median), <span class="at">n =</span> <span class="fu">n</span>(),</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>    <span class="at">mean_drivers =</span> <span class="fu">mean</span>(drivers_h_median), <span class="at">n =</span> <span class="fu">n</span>())</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>summary_table</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 3 × 5
+# Groups:   med_legal [2]
+  med_legal rec_legal mean_all     n mean_drivers
+  &lt;lgl&gt;     &lt;lgl&gt;        &lt;dbl&gt; &lt;int&gt;        &lt;dbl&gt;
+1 FALSE     FALSE         15.1   653         15.5
+2 TRUE      FALSE         17.8   361         17.7
+3 TRUE      TRUE          22.3   108         21.0</code></pre>
+</div>
+</div>
 
 </main>
 <!-- /main column -->
